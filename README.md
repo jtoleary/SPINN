@@ -5,8 +5,6 @@ Stochastic differential equations (SDEs) are used to describe a wide variety of 
 # Help
 Please direct all questions to jared.oleary@berkeley.edu
 
-# Citation
-
 
 
 
