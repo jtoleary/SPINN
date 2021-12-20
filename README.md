@@ -5,6 +5,14 @@ Stochastic differential equations (SDEs) are used to describe a wide variety of 
 # Help
 Please direct all questions to jared.oleary@berkeley.edu
 
+# Citation
+@article{o2021stochastic,
+  title={Stochastic Physics-Informed Neural Networks (SPINN): A Moment-Matching Framework for Learning Hidden Physics within Stochastic Differential Equations},
+  author={O'Leary, Jared and Paulson, Joel A and Mesbah, Ali},
+  journal={arXiv preprint arXiv:2109.01621},
+  year={2021}
+}
+
 
 
 
